@@ -1,0 +1,382 @@
+{
+  "id": "USR_68D48CAF",
+  "name": "Priya Patel",
+  "email": "priya.patel@gmail.com",
+  "profile": {
+    "age": 35,
+    "profession": "Marketing Manager",
+    "location": "Delhi",
+    "user_type": "family_person"
+  },
+  "created_at": "2025-09-13T18:16:01.971123",
+  "accounts": [
+    {
+      "id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "bank_name": "SBI",
+      "account_type": "SAVINGS",
+      "account_number": "****8431",
+      "balance": 250000.0,
+      "currency": "INR",
+      "created_at": "2025-09-13T18:16:01.971129"
+    },
+    {
+      "id": "ACC_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "bank_name": "HDFC Bank",
+      "account_type": "JOINT",
+      "account_number": "****2803",
+      "balance": 120000.0,
+      "currency": "INR",
+      "created_at": "2025-09-13T18:16:01.971132"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "TXN_USR_68D48CAF_0023",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": -24610.0,
+      "merchant": "D-MART",
+      "category": "BILLS",
+      "description": "Transaction 23",
+      "date": "2025-09-11T18:16:01.971421",
+      "created_at": "2025-09-13T18:16:01.971422"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0015",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": -1187.0,
+      "merchant": "APOLLO PHARMACY",
+      "category": "FOOD",
+      "description": "Transaction 15",
+      "date": "2025-09-10T18:16:01.971372",
+      "created_at": "2025-09-13T18:16:01.971374"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0024",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": -15841.0,
+      "merchant": "BIG BAZAAR",
+      "category": "SHOPPING",
+      "description": "Transaction 24",
+      "date": "2025-09-03T18:16:01.971427",
+      "created_at": "2025-09-13T18:16:01.971428"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0009",
+      "account_id": "ACC_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "amount": 139188.0,
+      "merchant": "RELIANCE FRESH",
+      "category": "EDUCATION",
+      "description": "Transaction 9",
+      "date": "2025-09-01T18:16:01.971335",
+      "created_at": "2025-09-13T18:16:01.971336"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0003",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": -52255.0,
+      "merchant": "BIG BAZAAR",
+      "category": "SHOPPING",
+      "description": "Transaction 3",
+      "date": "2025-08-22T18:16:01.971152",
+      "created_at": "2025-09-13T18:16:01.971153"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0008",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": 115878.0,
+      "merchant": "BIG BAZAAR",
+      "category": "ENTERTAINMENT",
+      "description": "Transaction 8",
+      "date": "2025-08-19T18:16:01.971328",
+      "created_at": "2025-09-13T18:16:01.971330"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0019",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": 98178.0,
+      "merchant": "APOLLO PHARMACY",
+      "category": "TRANSPORT",
+      "description": "Transaction 19",
+      "date": "2025-08-14T18:16:01.971397",
+      "created_at": "2025-09-13T18:16:01.971398"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0017",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": -8180.0,
+      "merchant": "APOLLO PHARMACY",
+      "category": "TRANSPORT",
+      "description": "Transaction 17",
+      "date": "2025-08-14T18:16:01.971385",
+      "created_at": "2025-09-13T18:16:01.971386"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0005",
+      "account_id": "ACC_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "amount": -74248.0,
+      "merchant": "BIG BAZAAR",
+      "category": "TRANSPORT",
+      "description": "Transaction 5",
+      "date": "2025-08-14T18:16:01.971307",
+      "created_at": "2025-09-13T18:16:01.971309"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0001",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": -15099.0,
+      "merchant": "D-MART",
+      "category": "MEDICAL",
+      "description": "Transaction 1",
+      "date": "2025-08-10T18:16:01.971139",
+      "created_at": "2025-09-13T18:16:01.971140"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0004",
+      "account_id": "ACC_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "amount": -7431.0,
+      "merchant": "RELIANCE FRESH",
+      "category": "ENTERTAINMENT",
+      "description": "Transaction 4",
+      "date": "2025-07-30T18:16:01.971295",
+      "created_at": "2025-09-13T18:16:01.971300"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0013",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": -59552.0,
+      "merchant": "BIG BAZAAR",
+      "category": "TRANSPORT",
+      "description": "Transaction 13",
+      "date": "2025-07-23T18:16:01.971360",
+      "created_at": "2025-09-13T18:16:01.971361"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0018",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": -41296.0,
+      "merchant": "BIG BAZAAR",
+      "category": "EDUCATION",
+      "description": "Transaction 18",
+      "date": "2025-07-22T18:16:01.971391",
+      "created_at": "2025-09-13T18:16:01.971392"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0025",
+      "account_id": "ACC_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "amount": -2556.0,
+      "merchant": "SCHOOL FEE",
+      "category": "TRANSPORT",
+      "description": "Transaction 25",
+      "date": "2025-07-14T18:16:01.971433",
+      "created_at": "2025-09-13T18:16:01.971434"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0006",
+      "account_id": "ACC_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "amount": -4950.0,
+      "merchant": "RELIANCE FRESH",
+      "category": "SHOPPING",
+      "description": "Transaction 6",
+      "date": "2025-07-13T18:16:01.971315",
+      "created_at": "2025-09-13T18:16:01.971316"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0002",
+      "account_id": "ACC_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "amount": -65058.0,
+      "merchant": "SCHOOL FEE",
+      "category": "MEDICAL",
+      "description": "Transaction 2",
+      "date": "2025-07-11T18:16:01.971146",
+      "created_at": "2025-09-13T18:16:01.971147"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0007",
+      "account_id": "ACC_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "amount": -9161.0,
+      "merchant": "D-MART",
+      "category": "EDUCATION",
+      "description": "Transaction 7",
+      "date": "2025-07-09T18:16:01.971322",
+      "created_at": "2025-09-13T18:16:01.971323"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0016",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": 59357.0,
+      "merchant": "BIG BAZAAR",
+      "category": "FOOD",
+      "description": "Transaction 16",
+      "date": "2025-07-06T18:16:01.971379",
+      "created_at": "2025-09-13T18:16:01.971380"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0011",
+      "account_id": "ACC_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "amount": -2018.0,
+      "merchant": "BIG BAZAAR",
+      "category": "SHOPPING",
+      "description": "Transaction 11",
+      "date": "2025-07-05T18:16:01.971348",
+      "created_at": "2025-09-13T18:16:01.971349"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0014",
+      "account_id": "ACC_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "amount": 68600.0,
+      "merchant": "D-MART",
+      "category": "MEDICAL",
+      "description": "Transaction 14",
+      "date": "2025-06-29T18:16:01.971366",
+      "created_at": "2025-09-13T18:16:01.971367"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0021",
+      "account_id": "ACC_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "amount": -8660.0,
+      "merchant": "D-MART",
+      "category": "EDUCATION",
+      "description": "Transaction 21",
+      "date": "2025-06-27T18:16:01.971409",
+      "created_at": "2025-09-13T18:16:01.971410"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0022",
+      "account_id": "ACC_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "amount": 164518.0,
+      "merchant": "D-MART",
+      "category": "MEDICAL",
+      "description": "Transaction 22",
+      "date": "2025-06-24T18:16:01.971415",
+      "created_at": "2025-09-13T18:16:01.971416"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0012",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": -34817.0,
+      "merchant": "SCHOOL FEE",
+      "category": "FOOD",
+      "description": "Transaction 12",
+      "date": "2025-06-23T18:16:01.971354",
+      "created_at": "2025-09-13T18:16:01.971355"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0020",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": -74739.0,
+      "merchant": "APOLLO PHARMACY",
+      "category": "BILLS",
+      "description": "Transaction 20",
+      "date": "2025-06-22T18:16:01.971403",
+      "created_at": "2025-09-13T18:16:01.971404"
+    },
+    {
+      "id": "TXN_USR_68D48CAF_0010",
+      "account_id": "ACC_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "amount": -71529.0,
+      "merchant": "SCHOOL FEE",
+      "category": "ENTERTAINMENT",
+      "description": "Transaction 10",
+      "date": "2025-06-18T18:16:01.971341",
+      "created_at": "2025-09-13T18:16:01.971343"
+    }
+  ],
+  "investments": [
+    {
+      "id": "INV_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "investment_type": "Child",
+      "name": "Child Education Plan",
+      "amount": 426869.0,
+      "current_value": 444396.31640547764,
+      "purchase_date": "2023-12-03T18:16:01.971439",
+      "created_at": "2025-09-13T18:16:01.971441"
+    },
+    {
+      "id": "INV_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "investment_type": "Life",
+      "name": "Life Insurance",
+      "amount": 495017.0,
+      "current_value": 664134.6086017382,
+      "purchase_date": "2024-12-07T18:16:01.971444",
+      "created_at": "2025-09-13T18:16:01.971446"
+    },
+    {
+      "id": "INV_USR_68D48CAF_003",
+      "user_id": "USR_68D48CAF",
+      "investment_type": "SIP",
+      "name": "SIP - Balanced Fund",
+      "amount": 177599.0,
+      "current_value": 243518.36829930425,
+      "purchase_date": "2024-03-20T18:16:01.971449",
+      "created_at": "2025-09-13T18:16:01.971450"
+    }
+  ],
+  "goals": [
+    {
+      "id": "GOAL_USR_68D48CAF_001",
+      "user_id": "USR_68D48CAF",
+      "name": "Children Education",
+      "target_amount": 1761725.0,
+      "current_amount": 256116.0,
+      "target_date": "2029-02-17T18:16:01.971454",
+      "status": "ACTIVE",
+      "created_at": "2025-09-13T18:16:01.971455"
+    },
+    {
+      "id": "GOAL_USR_68D48CAF_002",
+      "user_id": "USR_68D48CAF",
+      "name": "Family Vacation",
+      "target_amount": 677730.0,
+      "current_amount": 58948.0,
+      "target_date": "2029-09-17T18:16:01.971458",
+      "status": "ACTIVE",
+      "created_at": "2025-09-13T18:16:01.971460"
+    },
+    {
+      "id": "GOAL_USR_68D48CAF_003",
+      "user_id": "USR_68D48CAF",
+      "name": "Home Renovation",
+      "target_amount": 832421.0,
+      "current_amount": 94085.0,
+      "target_date": "2028-01-24T18:16:01.971463",
+      "status": "ACTIVE",
+      "created_at": "2025-09-13T18:16:01.971464"
+    }
+  ],
+  "summary": {
+    "total_balance": 370000.0,
+    "total_investments": 1352049.2933065202,
+    "estimated_monthly_income": 215239.66666666666,
+    "estimated_monthly_expenses": 191062.33333333334,
+    "net_worth": 1722049.2933065202
+  }
+}

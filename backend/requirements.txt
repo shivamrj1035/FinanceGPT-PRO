@@ -1,0 +1,38 @@
+# FastAPI and Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
+
+# WebSocket Support (google-genai requires websockets>=13.0)
+websockets>=13.0
+python-socketio
+
+# CORS and Security
+python-jose[cryptography]
+passlib[bcrypt]
+PyJWT
+cryptography
+
+# Database
+sqlalchemy
+aiosqlite
+
+# AI/ML Integration
+google-genai
+
+# HTTP Client
+httpx
+aiohttp
+aiohttp-cors
+
+# Data Validation
+pydantic
+email-validator
+
+# Utilities
+python-dotenv
+python-dateutil
+
+# Logging and Monitoring
+loguru

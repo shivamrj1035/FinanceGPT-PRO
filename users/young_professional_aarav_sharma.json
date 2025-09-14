@@ -1,0 +1,382 @@
+{
+  "id": "USR_8C4E025E",
+  "name": "Aarav Sharma",
+  "email": "aarav.sharma@gmail.com",
+  "profile": {
+    "age": 28,
+    "profession": "Software Engineer",
+    "location": "Bangalore",
+    "user_type": "young_professional"
+  },
+  "created_at": "2025-09-13T18:16:01.966942",
+  "accounts": [
+    {
+      "id": "ACC_USR_8C4E025E_001",
+      "user_id": "USR_8C4E025E",
+      "bank_name": "HDFC Bank",
+      "account_type": "SAVINGS",
+      "account_number": "****4242",
+      "balance": 150000.0,
+      "currency": "INR",
+      "created_at": "2025-09-13T18:16:01.970568"
+    },
+    {
+      "id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "bank_name": "ICICI Bank",
+      "account_type": "SALARY",
+      "account_number": "****9861",
+      "balance": 85000.0,
+      "currency": "INR",
+      "created_at": "2025-09-13T18:16:01.970646"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "TXN_USR_8C4E025E_0021",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": 165467.0,
+      "merchant": "FLIPKART",
+      "category": "TRANSPORT",
+      "description": "Transaction 21",
+      "date": "2025-09-10T18:16:01.970846",
+      "created_at": "2025-09-13T18:16:01.970848"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0006",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -45192.0,
+      "merchant": "UBER",
+      "category": "TRANSPORT",
+      "description": "Transaction 6",
+      "date": "2025-09-07T18:16:01.970754",
+      "created_at": "2025-09-13T18:16:01.970756"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0019",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -4954.0,
+      "merchant": "AMAZON",
+      "category": "EDUCATION",
+      "description": "Transaction 19",
+      "date": "2025-08-31T18:16:01.970834",
+      "created_at": "2025-09-13T18:16:01.970836"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0015",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -2576.0,
+      "merchant": "SWIGGY",
+      "category": "ENTERTAINMENT",
+      "description": "Transaction 15",
+      "date": "2025-08-29T18:16:01.970811",
+      "created_at": "2025-09-13T18:16:01.970812"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0020",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -2062.0,
+      "merchant": "AMAZON",
+      "category": "SHOPPING",
+      "description": "Transaction 20",
+      "date": "2025-08-28T18:16:01.970840",
+      "created_at": "2025-09-13T18:16:01.970842"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0009",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -19459.0,
+      "merchant": "PVR",
+      "category": "FOOD",
+      "description": "Transaction 9",
+      "date": "2025-08-22T18:16:01.970774",
+      "created_at": "2025-09-13T18:16:01.970775"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0005",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -22025.0,
+      "merchant": "NETFLIX",
+      "category": "EDUCATION",
+      "description": "Transaction 5",
+      "date": "2025-08-22T18:16:01.970741",
+      "created_at": "2025-09-13T18:16:01.970743"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0023",
+      "account_id": "ACC_USR_8C4E025E_001",
+      "user_id": "USR_8C4E025E",
+      "amount": 155950.0,
+      "merchant": "SWIGGY",
+      "category": "SHOPPING",
+      "description": "Transaction 23",
+      "date": "2025-08-20T18:16:01.970858",
+      "created_at": "2025-09-13T18:16:01.970860"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0004",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -3463.0,
+      "merchant": "NETFLIX",
+      "category": "SHOPPING",
+      "description": "Transaction 4",
+      "date": "2025-08-20T18:16:01.970734",
+      "created_at": "2025-09-13T18:16:01.970736"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0013",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -2058.0,
+      "merchant": "SWIGGY",
+      "category": "ENTERTAINMENT",
+      "description": "Transaction 13",
+      "date": "2025-08-14T18:16:01.970798",
+      "created_at": "2025-09-13T18:16:01.970800"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0016",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -91274.0,
+      "merchant": "SWIGGY",
+      "category": "FOOD",
+      "description": "Transaction 16",
+      "date": "2025-08-08T18:16:01.970817",
+      "created_at": "2025-09-13T18:16:01.970818"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0018",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -94450.0,
+      "merchant": "PVR",
+      "category": "BILLS",
+      "description": "Transaction 18",
+      "date": "2025-08-03T18:16:01.970828",
+      "created_at": "2025-09-13T18:16:01.970830"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0007",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -4098.0,
+      "merchant": "UBER",
+      "category": "EDUCATION",
+      "description": "Transaction 7",
+      "date": "2025-08-01T18:16:01.970762",
+      "created_at": "2025-09-13T18:16:01.970763"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0001",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -51159.0,
+      "merchant": "NETFLIX",
+      "category": "BILLS",
+      "description": "Transaction 1",
+      "date": "2025-07-27T18:16:01.970659",
+      "created_at": "2025-09-13T18:16:01.970664"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0011",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": 156500.0,
+      "merchant": "AMAZON",
+      "category": "BILLS",
+      "description": "Transaction 11",
+      "date": "2025-07-26T18:16:01.970786",
+      "created_at": "2025-09-13T18:16:01.970788"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0008",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": 74753.0,
+      "merchant": "FLIPKART",
+      "category": "TRANSPORT",
+      "description": "Transaction 8",
+      "date": "2025-07-25T18:16:01.970768",
+      "created_at": "2025-09-13T18:16:01.970769"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0012",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": 195561.0,
+      "merchant": "UBER",
+      "category": "ENTERTAINMENT",
+      "description": "Transaction 12",
+      "date": "2025-07-23T18:16:01.970792",
+      "created_at": "2025-09-13T18:16:01.970794"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0024",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -78913.0,
+      "merchant": "UBER",
+      "category": "MEDICAL",
+      "description": "Transaction 24",
+      "date": "2025-07-22T18:16:01.970864",
+      "created_at": "2025-09-13T18:16:01.970865"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0017",
+      "account_id": "ACC_USR_8C4E025E_001",
+      "user_id": "USR_8C4E025E",
+      "amount": -24792.0,
+      "merchant": "SWIGGY",
+      "category": "FOOD",
+      "description": "Transaction 17",
+      "date": "2025-07-20T18:16:01.970822",
+      "created_at": "2025-09-13T18:16:01.970824"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0010",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -16074.0,
+      "merchant": "STARBUCKS",
+      "category": "FOOD",
+      "description": "Transaction 10",
+      "date": "2025-07-16T18:16:01.970780",
+      "created_at": "2025-09-13T18:16:01.970782"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0002",
+      "account_id": "ACC_USR_8C4E025E_001",
+      "user_id": "USR_8C4E025E",
+      "amount": -3600.0,
+      "merchant": "NETFLIX",
+      "category": "BILLS",
+      "description": "Transaction 2",
+      "date": "2025-07-12T18:16:01.970718",
+      "created_at": "2025-09-13T18:16:01.970721"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0014",
+      "account_id": "ACC_USR_8C4E025E_001",
+      "user_id": "USR_8C4E025E",
+      "amount": -24737.0,
+      "merchant": "SWIGGY",
+      "category": "EDUCATION",
+      "description": "Transaction 14",
+      "date": "2025-07-08T18:16:01.970804",
+      "created_at": "2025-09-13T18:16:01.970806"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0022",
+      "account_id": "ACC_USR_8C4E025E_001",
+      "user_id": "USR_8C4E025E",
+      "amount": 193275.0,
+      "merchant": "NETFLIX",
+      "category": "MEDICAL",
+      "description": "Transaction 22",
+      "date": "2025-07-06T18:16:01.970852",
+      "created_at": "2025-09-13T18:16:01.970854"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0025",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": -16100.0,
+      "merchant": "STARBUCKS",
+      "category": "EDUCATION",
+      "description": "Transaction 25",
+      "date": "2025-06-27T18:16:01.970870",
+      "created_at": "2025-09-13T18:16:01.970871"
+    },
+    {
+      "id": "TXN_USR_8C4E025E_0003",
+      "account_id": "ACC_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "amount": 68975.0,
+      "merchant": "NETFLIX",
+      "category": "ENTERTAINMENT",
+      "description": "Transaction 3",
+      "date": "2025-06-21T18:16:01.970728",
+      "created_at": "2025-09-13T18:16:01.970729"
+    }
+  ],
+  "investments": [
+    {
+      "id": "INV_USR_8C4E025E_001",
+      "user_id": "USR_8C4E025E",
+      "investment_type": "SIP",
+      "name": "SIP - HDFC Top 100",
+      "amount": 329020.0,
+      "current_value": 360667.5710068824,
+      "purchase_date": "2025-01-22T18:16:01.970878",
+      "created_at": "2025-09-13T18:16:01.970880"
+    },
+    {
+      "id": "INV_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "investment_type": "PPF",
+      "name": "PPF Account",
+      "amount": 466231.0,
+      "current_value": 564397.1099045321,
+      "purchase_date": "2024-12-05T18:16:01.970913",
+      "created_at": "2025-09-13T18:16:01.970915"
+    },
+    {
+      "id": "INV_USR_8C4E025E_003",
+      "user_id": "USR_8C4E025E",
+      "investment_type": "Stocks",
+      "name": "Stocks - TCS",
+      "amount": 222271.0,
+      "current_value": 211286.81401622453,
+      "purchase_date": "2025-06-30T18:16:01.970919",
+      "created_at": "2025-09-13T18:16:01.970920"
+    }
+  ],
+  "goals": [
+    {
+      "id": "GOAL_USR_8C4E025E_001",
+      "user_id": "USR_8C4E025E",
+      "name": "House Purchase",
+      "target_amount": 1934069.0,
+      "current_amount": 351815.0,
+      "target_date": "2029-10-02T18:16:01.970924",
+      "status": "ACTIVE",
+      "created_at": "2025-09-13T18:16:01.970926"
+    },
+    {
+      "id": "GOAL_USR_8C4E025E_002",
+      "user_id": "USR_8C4E025E",
+      "name": "Emergency Fund",
+      "target_amount": 1382328.0,
+      "current_amount": 181499.0,
+      "target_date": "2028-08-10T18:16:01.971075",
+      "status": "ACTIVE",
+      "created_at": "2025-09-13T18:16:01.971078"
+    },
+    {
+      "id": "GOAL_USR_8C4E025E_003",
+      "user_id": "USR_8C4E025E",
+      "name": "Vacation Fund",
+      "target_amount": 1373739.0,
+      "current_amount": 157522.0,
+      "target_date": "2029-01-12T18:16:01.971081",
+      "status": "ACTIVE",
+      "created_at": "2025-09-13T18:16:01.971083"
+    }
+  ],
+  "summary": {
+    "total_balance": 235000.0,
+    "total_investments": 1136351.4949276391,
+    "estimated_monthly_income": 336827.0,
+    "estimated_monthly_expenses": 168995.33333333334,
+    "net_worth": 1371351.4949276391
+  }
+}

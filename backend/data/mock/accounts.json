@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ACC_USR_8C4E025E_001",
+    "user_id": "USR_8C4E025E",
+    "bank_name": "HDFC Bank",
+    "account_type": "SAVINGS",
+    "account_number": "****4242",
+    "balance": 150000.0,
+    "currency": "INR",
+    "created_at": "2025-09-13T18:16:01.970568",
+    "status": "active",
+    "branch": "Main Branch"
+  },
+  {
+    "id": "ACC_USR_8C4E025E_002",
+    "user_id": "USR_8C4E025E",
+    "bank_name": "ICICI Bank",
+    "account_type": "SALARY",
+    "account_number": "****9861",
+    "balance": 85000.0,
+    "currency": "INR",
+    "created_at": "2025-09-13T18:16:01.970646",
+    "status": "active",
+    "branch": "Main Branch"
+  },
+  {
+    "id": "ACC_USR_68D48CAF_001",
+    "user_id": "USR_68D48CAF",
+    "bank_name": "SBI",
+    "account_type": "SAVINGS",
+    "account_number": "****8431",
+    "balance": 250000.0,
+    "currency": "INR",
+    "created_at": "2025-09-13T18:16:01.971129",
+    "status": "active",
+    "branch": "Main Branch"
+  },
+  {
+    "id": "ACC_USR_68D48CAF_002",
+    "user_id": "USR_68D48CAF",
+    "bank_name": "HDFC Bank",
+    "account_type": "JOINT",
+    "account_number": "****2803",
+    "balance": 120000.0,
+    "currency": "INR",
+    "created_at": "2025-09-13T18:16:01.971132",
+    "status": "active",
+    "branch": "Main Branch"
+  },
+  {
+    "id": "ACC_USR_85768F1B_001",
+    "user_id": "USR_85768F1B",
+    "bank_name": "ICICI Bank",
+    "account_type": "CURRENT",
+    "account_number": "****4597",
+    "balance": 500000.0,
+    "currency": "INR",
+    "created_at": "2025-09-13T18:16:01.971486",
+    "status": "active",
+    "branch": "Main Branch"
+  },
+  {
+    "id": "ACC_USR_85768F1B_002",
+    "user_id": "USR_85768F1B",
+    "bank_name": "AXIS Bank",
+    "account_type": "SAVINGS",
+    "account_number": "****6113",
+    "balance": 300000.0,
+    "currency": "INR",
+    "created_at": "2025-09-13T18:16:01.971489",
+    "status": "active",
+    "branch": "Main Branch"
+  },
+  {
+    "id": "ACC_USR_85768F1B_003",
+    "user_id": "USR_85768F1B",
+    "bank_name": "SBI",
+    "account_type": "BUSINESS",
+    "account_number": "****1435",
+    "balance": 750000.0,
+    "currency": "INR",
+    "created_at": "2025-09-13T18:16:01.971492",
+    "status": "active",
+    "branch": "Main Branch"
+  }
+]

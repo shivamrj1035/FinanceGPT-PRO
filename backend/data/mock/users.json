@@ -1,0 +1,41 @@
+[
+  {
+    "id": "USR_8C4E025E",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@gmail.com",
+    "user_type": "premium",
+    "profile_data": {
+      "age": 28,
+      "profession": "Software Engineer",
+      "location": "Bangalore",
+      "user_type": "young_professional"
+    },
+    "created_at": "2025-09-13T18:16:01.966942"
+  },
+  {
+    "id": "USR_68D48CAF",
+    "name": "Priya Patel",
+    "email": "priya.patel@gmail.com",
+    "user_type": "premium",
+    "profile_data": {
+      "age": 35,
+      "profession": "Marketing Manager",
+      "location": "Delhi",
+      "user_type": "family_person"
+    },
+    "created_at": "2025-09-13T18:16:01.971123"
+  },
+  {
+    "id": "USR_85768F1B",
+    "name": "Rajesh Gupta",
+    "email": "rajesh.gupta@business.com",
+    "user_type": "premium",
+    "profile_data": {
+      "age": 45,
+      "profession": "Business Owner",
+      "location": "Mumbai",
+      "user_type": "senior_saver"
+    },
+    "created_at": "2025-09-13T18:16:01.971480"
+  }
+]
